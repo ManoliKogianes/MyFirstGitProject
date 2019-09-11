@@ -1,2 +1,5 @@
 # MyFirstGitProject
-The first git project for CS1030 Hadzik
+
+
+Markdown on Github
+https://help.github.com/en/articles/basic-writing-and-formatting-syntax
