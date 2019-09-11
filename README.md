@@ -20,7 +20,7 @@ Make the following changes your MyFirstGitProject folder
   - commit the changes using the commit message 'initial commit'
   - push the changes to remote
   
-##Helpful Links
+## Helpful Links
 [Markdown on Github](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 
